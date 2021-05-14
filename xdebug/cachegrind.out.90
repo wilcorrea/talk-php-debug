@@ -1,0 +1,198 @@
+version: 1
+creator: xdebug 3.0.3 (PHP 8.0.3)
+cmd: /var/www/app/public/index.php
+part: 1
+positions: line
+
+events: Time_(10ns) Memory_(bytes)
+
+fl=(2) /var/www/app/src/functions.php
+fn=(1) require::/var/www/app/src/functions.php
+1 210 0
+
+fl=(2)
+fn=(2) get
+22 120 0
+
+fl=(2)
+fn=(3) factorial
+8 20 0
+
+fl=(2)
+fn=(3)
+8 150 0
+cfl=(2)
+cfn=(3)
+calls=1 0 0
+13 20 0
+
+fl=(2)
+fn=(3)
+8 130 0
+cfl=(2)
+cfn=(3)
+calls=1 0 0
+13 170 0
+
+fl=(2)
+fn=(3)
+8 80 0
+cfl=(2)
+cfn=(3)
+calls=1 0 0
+13 300 0
+
+fl=(2)
+fn=(3)
+8 70 0
+cfl=(2)
+cfn=(3)
+calls=1 0 0
+13 380 0
+
+fl=(2)
+fn=(3)
+8 60 0
+cfl=(2)
+cfn=(3)
+calls=1 0 0
+13 450 0
+
+fl=(2)
+fn=(3)
+8 70 0
+cfl=(2)
+cfn=(3)
+calls=1 0 0
+13 510 0
+
+fl=(2)
+fn=(3)
+8 60 0
+cfl=(2)
+cfn=(3)
+calls=1 0 0
+13 580 0
+
+fl=(2)
+fn=(3)
+8 60 0
+cfl=(2)
+cfn=(3)
+calls=1 0 0
+13 640 0
+
+fl=(2)
+fn=(3)
+8 70 0
+cfl=(2)
+cfn=(3)
+calls=1 0 0
+13 700 0
+
+fl=(2)
+fn=(3)
+8 50 0
+cfl=(2)
+cfn=(3)
+calls=1 0 0
+13 770 0
+
+fl=(2)
+fn=(3)
+8 60 0
+cfl=(2)
+cfn=(3)
+calls=1 0 0
+13 820 0
+
+fl=(2)
+fn=(3)
+8 60 0
+cfl=(2)
+cfn=(3)
+calls=1 0 0
+13 880 0
+
+fl=(2)
+fn=(3)
+8 70 0
+cfl=(2)
+cfn=(3)
+calls=1 0 0
+13 940 0
+
+fl=(2)
+fn=(3)
+8 60 0
+cfl=(2)
+cfn=(3)
+calls=1 0 0
+13 1010 0
+
+fl=(2)
+fn=(3)
+8 60 0
+cfl=(2)
+cfn=(3)
+calls=1 0 0
+13 1070 0
+
+fl=(2)
+fn=(3)
+8 70 0
+cfl=(2)
+cfn=(3)
+calls=1 0 0
+13 1130 0
+
+fl=(2)
+fn=(3)
+8 60 0
+cfl=(2)
+cfn=(3)
+calls=1 0 0
+13 1200 0
+
+fl=(2)
+fn=(3)
+8 70 0
+cfl=(2)
+cfn=(3)
+calls=1 0 0
+13 1260 0
+
+fl=(2)
+fn=(3)
+8 210 0
+cfl=(2)
+cfn=(3)
+calls=1 0 0
+13 1330 0
+
+fl=(2)
+fn=(3)
+8 380 0
+cfl=(2)
+cfn=(3)
+calls=1 0 0
+13 1540 0
+
+fl=(3) /var/www/app/public/index.php
+fn=(4) {main}
+1 253410 872
+cfl=(2)
+cfn=(1)
+calls=1 0 0
+3 210 0
+cfl=(2)
+cfn=(2)
+calls=1 0 0
+5 120 0
+cfl=(2)
+cfn=(3)
+calls=1 0 0
+7 1920 0
+
+summary: 276810 430384
+
